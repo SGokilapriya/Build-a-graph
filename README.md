@@ -8,4 +8,4 @@ File name: Graph_mathematical_surfaces.unitypackage -->  Mathematical surfaces
 
 File name: Fractal_.unitypackage --> Constructing a Fractal
 
-File name: Sliding_SPhere.unitypackage --> Movement - Sliding a Sphere
+File name: Sliding_Sphere.unitypackage --> Movement - Sliding a Sphere
